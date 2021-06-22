@@ -1,5 +1,5 @@
 {
-    "name": "picup/picup",
+    "name": "lgd/picup",
     "description": "picup.shop php sdk",
     "type": "library",
     "require": {
